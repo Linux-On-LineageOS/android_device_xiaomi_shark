@@ -387,3 +387,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/shark/shark-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
